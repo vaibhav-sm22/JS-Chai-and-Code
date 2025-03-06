@@ -14,7 +14,7 @@
 // console.log(undefined < 0); comparison and equality check works different in JacaScript
 
 
-//=== is strict check 
+//=== is strict check Yes
 
 console.log("2" === 2)
 
