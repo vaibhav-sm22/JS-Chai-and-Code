@@ -1,6 +1,8 @@
 // Primitive Datatypes
 
-// 7 types : String, Number, Boolean, null(means empty not zero, if we wants temperature and unable to fetch then it cannot be zero so we use null), Undefined, Symbol, BigInt
+// 7 types : String, Number, Boolean, null(means empty not zero,
+//  if we wants temperature and unable to fetch then it cannot be zero so we use null)
+// , Undefined, Symbol, BigInt
 
 
 // Is JS statically or dynamically typed? JavaScript is dynamically typed which variables can change during runtime and in statically typed variable do not change during runtime
