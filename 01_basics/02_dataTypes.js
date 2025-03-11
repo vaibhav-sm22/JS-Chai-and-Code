@@ -4,7 +4,8 @@
 
 //console.log("Hello World"); console.log("Vaibhav"); would work but not a good practice to code
 /*console.log("Hello World");
-console.log("Vaibhav"); This is a good practice*/
+console.log("Vaibhav"); This is a good practice as we should write different code in different
+line to make js more readable*/
 
 //Code should be readable
 
